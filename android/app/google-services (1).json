@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "939058435845",
+    "project_id": "todayapp-b84b1",
+    "storage_bucket": "todayapp-b84b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939058435845:android:fb5c279cb2cedebe8d896c",
+        "android_client_info": {
+          "package_name": "com.example.todayapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939058435845-i1hhd2gc0m00poogpoq8i7nmdn4pnjnn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLyzrPRO7X5rvMavMlMDT6JflN84ifv6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "939058435845-i1hhd2gc0m00poogpoq8i7nmdn4pnjnn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
